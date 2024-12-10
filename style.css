@@ -238,3 +238,7 @@ section{
         margin-top: 15px;
     }
 }
+html, body, section {
+    height: 100%;
+    overflow-y: auto; /* Default for vertical scrolling */
+  }
