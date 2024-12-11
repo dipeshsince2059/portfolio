@@ -240,5 +240,6 @@ section{
 }
 html, body, section {
     height: 100%;
-    overflow-y: auto; /* Default for vertical scrolling */
+    overflow-y: auto; 
+    z-index: auto;/* Default for vertical scrolling */
   }
