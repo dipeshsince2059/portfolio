@@ -13,6 +13,7 @@ const texts = [
     "DEV",
     "DEVE",
     "DEVEL",
+    "DEVELO",
     "DEVELOP",
     "DEVELOPE",
     "DEVELOPER"
