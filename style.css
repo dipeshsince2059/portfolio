@@ -214,6 +214,9 @@ section{
     .main-container .content{
         width: 80%;
     }
+    .social-links{
+        display: block;
+    }
     .social-links i{
         width: 2.5rem;
         height: 2.5rem;
@@ -233,6 +236,14 @@ section{
     }
     .main-container .content{
         width: 80%;
+    }
+    .social-links{
+        display: block;
+    }
+    .social-links i{
+        width: 2.5rem;
+        height: 2.5rem;
+        font-size: 1.5rem;
     }
     .main-container button{
         margin-top: 15px;
